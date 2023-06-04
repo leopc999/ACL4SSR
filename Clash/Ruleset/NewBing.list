@@ -1,4 +1,5 @@
 # 内容：NewBing
-# 数量：2条
+# 数量：3条
 DOMAIN-SUFFIX,edgeservices.bing.com
 DOMAIN,www.bing.com
+DOMAIN-SUFFIX,sydney.bing.com
