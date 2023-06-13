@@ -1,7 +1,6 @@
 # Unbreak 白名单 不应该被广告链接的网站
 
 # New_sci
-#DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,zotero.org
 DOMAIN-SUFFIX,tecplot.com
 DOMAIN-SUFFIX,api.mathpix.com
@@ -12,6 +11,7 @@ DOMAIN-KEYWORD,sci-hub
 DOMAIN-SUFFIX,semanticscholar.org
 DOMAIN-SUFFIX,scopus.com
 DOMAIN-SUFFIX,webofscience.com
+DOMAIN-SUFFIX,access.clarivate.com
 DOMAIN-SUFFIX,connectedpapers.com
 DOMAIN-SUFFIX,tandfonline.com
 DOMAIN-SUFFIX,link.springer.com
