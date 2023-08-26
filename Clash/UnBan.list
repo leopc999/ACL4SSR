@@ -1,6 +1,7 @@
 # Unbreak 白名单 不应该被广告链接的网站
 
 # New_sci
+DOMAIN-SUFFIX,aps.org
 DOMAIN-SUFFIX,zotero.org
 DOMAIN-SUFFIX,tecplot.com
 DOMAIN-SUFFIX,api.mathpix.com
