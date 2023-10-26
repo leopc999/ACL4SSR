@@ -1,6 +1,7 @@
 # Unbreak 白名单 不应该被广告链接的网站
 
 # New_sci
+DOMAIN-SUFFIX,acs.org
 DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,aip.org
 DOMAIN-SUFFIX,aps.org
