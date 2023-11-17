@@ -1,32 +1,32 @@
 # Unbreak 白名单 不应该被广告链接的网站
 
 # New_sci
-DOMAIN-SUFFIX,acs.org
-DOMAIN-SUFFIX,ieee.org
-DOMAIN-SUFFIX,aip.org
-DOMAIN-SUFFIX,aps.org
-DOMAIN-SUFFIX,zotero.org
+#DOMAIN-SUFFIX,acs.org
+#DOMAIN-SUFFIX,ieee.org
+#DOMAIN-SUFFIX,aip.org
+#DOMAIN-SUFFIX,aps.org
+#DOMAIN-SUFFIX,zotero.org
 DOMAIN-SUFFIX,tecplot.com
 DOMAIN-SUFFIX,api.mathpix.com
-DOMAIN-SUFFIX,researchgate.net
+#DOMAIN-SUFFIX,researchgate.net
 DOMAIN-SUFFIX,sparta.github.io
 DOMAIN-SUFFIX,sc.panda321.com
 DOMAIN-KEYWORD,sci-hub
-DOMAIN-SUFFIX,semanticscholar.org
-DOMAIN-SUFFIX,scopus.com
+#DOMAIN-SUFFIX,semanticscholar.org
+#DOMAIN-SUFFIX,scopus.com
 DOMAIN-SUFFIX,webofscience.com
-DOMAIN-SUFFIX,webofknowledge.com
-DOMAIN-SUFFIX,clarivate.com
+#DOMAIN-SUFFIX,webofknowledge.com
+#DOMAIN-SUFFIX,clarivate.com
 DOMAIN-SUFFIX,connectedpapers.com
-DOMAIN-SUFFIX,tandfonline.com
-DOMAIN-SUFFIX,link.springer.com
-DOMAIN-SUFFIX,cambridge.org
-DOMAIN-SUFFIX,onlinelibrary.wiley.com
-DOMAIN-SUFFIX,proquest.com
-DOMAIN-SUFFIX,aip.scitation.org
-DOMAIN-SUFFIX,arc.aiaa.org
+#DOMAIN-SUFFIX,tandfonline.com
+#DOMAIN-SUFFIX,link.springer.com
+#DOMAIN-SUFFIX,cambridge.org
+#DOMAIN-SUFFIX,onlinelibrary.wiley.com
+#DOMAIN-SUFFIX,proquest.com
+#DOMAIN-SUFFIX,aip.scitation.org
+#DOMAIN-SUFFIX,arc.aiaa.org
 DOMAIN-SUFFIX,sciencedirectassets.com
-DOMAIN-SUFFIX,sciencedirect.com
+#DOMAIN-SUFFIX,sciencedirect.com
 
 # Epicgames
 DOMAIN-SUFFIX,ol.epicgames.com
