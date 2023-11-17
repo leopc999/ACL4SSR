@@ -11,13 +11,13 @@ DOMAIN-SUFFIX,api.mathpix.com
 #DOMAIN-SUFFIX,researchgate.net
 DOMAIN-SUFFIX,sparta.github.io
 DOMAIN-SUFFIX,sc.panda321.com
-DOMAIN-KEYWORD,sci-hub
+#DOMAIN-KEYWORD,sci-hub
 #DOMAIN-SUFFIX,semanticscholar.org
 #DOMAIN-SUFFIX,scopus.com
-DOMAIN-SUFFIX,webofscience.com
+#DOMAIN-SUFFIX,webofscience.com
 #DOMAIN-SUFFIX,webofknowledge.com
 #DOMAIN-SUFFIX,clarivate.com
-DOMAIN-SUFFIX,connectedpapers.com
+#DOMAIN-SUFFIX,connectedpapers.com
 #DOMAIN-SUFFIX,tandfonline.com
 #DOMAIN-SUFFIX,link.springer.com
 #DOMAIN-SUFFIX,cambridge.org
@@ -25,7 +25,7 @@ DOMAIN-SUFFIX,connectedpapers.com
 #DOMAIN-SUFFIX,proquest.com
 #DOMAIN-SUFFIX,aip.scitation.org
 #DOMAIN-SUFFIX,arc.aiaa.org
-DOMAIN-SUFFIX,sciencedirectassets.com
+#DOMAIN-SUFFIX,sciencedirectassets.com
 #DOMAIN-SUFFIX,sciencedirect.com
 
 # Epicgames
