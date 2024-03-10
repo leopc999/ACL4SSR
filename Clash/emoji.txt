@@ -56,6 +56,7 @@
 (Morocco|摩洛哥),🇲🇦
 (Moldova|摩尔多瓦),🇲🇩
 (北马其顿|Macedonia),🇲🇰
+(MM|Myanmar|缅甸),🇲🇲
 (^MN|Mongolia|蒙古|Монголулс),🇲🇳
 (MO|Macao|澳.*(?!→)|CTM),🇲🇴
 (墨西哥|Mexico),🇲🇽
