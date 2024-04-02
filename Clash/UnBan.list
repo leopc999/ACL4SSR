@@ -1,6 +1,6 @@
 # Unbreak 白名单 不应该被广告链接的网站
 
-# New_sci
+# Direct #New_sci
 #DOMAIN-SUFFIX,acs.org
 #DOMAIN-SUFFIX,ieee.org
 #DOMAIN-SUFFIX,aip.org
@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,api.mathpix.com
 #DOMAIN-SUFFIX,researchgate.net
 DOMAIN-SUFFIX,sparta.github.io
 DOMAIN-SUFFIX,sc.panda321.com
+DOMAIN-SUFFIX,jianliben.com
 #DOMAIN-KEYWORD,sci-hub
 #DOMAIN-SUFFIX,semanticscholar.org
 #DOMAIN-SUFFIX,scopus.com
