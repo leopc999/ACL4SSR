@@ -82,6 +82,7 @@ DOMAIN-SUFFIX,bnappzh.mobi
 DOMAIN-SUFFIX,bsc.getblock.io
 DOMAIN-SUFFIX,bscscan.com
 # PROCESS-NAME,Binance.exe
+PROCESS-NAME,com.binance.dev
 DOMAIN-KEYWORD,binance
 
 # > Huobi
