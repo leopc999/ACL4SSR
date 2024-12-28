@@ -84,7 +84,12 @@ DOMAIN-SUFFIX,bsc.getblock.io
 DOMAIN-SUFFIX,bscscan.com
 # PROCESS-NAME,Binance.exe
 PROCESS-NAME,com.binance.dev
+DOMAIN-SUFFIX,binancecnt.com
 DOMAIN-KEYWORD,binance
+
+# > Binance API
+DOMAIN-SUFFIX,binanceapi.com
+DOMAIN-SUFFIX,bnbstatic.com
 
 # > Huobi
 DOMAIN-SUFFIX,hbabit.com
@@ -113,6 +118,9 @@ DOMAIN-KEYWORD,huobi
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,okx.com
 # PROCESS-NAME,OKX.exe
+DOMAIN-SUFFIX,okx-dns.com
+DOMAIN-SUFFIX,okx-dns1.com
+DOMAIN-SUFFIX,okx-dns2.com
 DOMAIN-KEYWORD,okx
 
 # > asproex
@@ -202,7 +210,6 @@ DOMAIN-SUFFIX,coincodex.com
 DOMAIN-SUFFIX,cointrendz.com
 DOMAIN-SUFFIX,coincheckup.com
 DOMAIN-SUFFIX,thetie.io
-DOMAIN-SUFFIX,cryptorank.io
 DOMAIN-SUFFIX,tradeblock.com
 DOMAIN-SUFFIX,nyctale.io
 DOMAIN-SUFFIX,dovemetrics.com
@@ -310,3 +317,6 @@ DOMAIN-SUFFIX,1inch.io
 
 # > Chippay
 DOMAIN-SUFFIX,chippay.com
+
+# > UniSat
+DOMAIN-SUFFIX,unisat.io
