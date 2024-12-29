@@ -1,0 +1,6 @@
+PROCESS-NAME,com.bybit.app
+PROCESS-NAME,com.binance.dev
+DOMAIN-KEYWORD,binance
+DOMAIN-KEYWORD,huobi
+DOMAIN-KEYWORD,okx
+DOMAIN-KEYWORD,metamask

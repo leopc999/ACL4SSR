@@ -1,0 +1,3 @@
++.edgeservices.bing.com
+www.bing.com
++.sydney.bing.com

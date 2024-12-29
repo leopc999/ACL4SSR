@@ -1,0 +1,2 @@
+DOMAIN-KEYWORD,1drv
+DOMAIN-KEYWORD,microsoft

@@ -1,0 +1,2 @@
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,google
